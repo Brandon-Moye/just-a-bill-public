@@ -5,7 +5,7 @@ Try it [here](https://just-a-bill.netlify.app/)
 What is the purpose of this site?
 To provide users to insights on what their representatives are achieving in DC and utilize AI to explain bill texts in a comprehensive way
 
-**How does it work?** <br>
+##**How does it work?** <br>
   
   **Where does the data come from?** <br>
   The data is retrieved from the [congress.gov API](https://gpo.congress.gov/) using a Node server that I setup. This is an official API from the US government <br>
@@ -22,7 +22,7 @@ To provide users to insights on what their representatives are achieving in DC a
   **Why did you go with this approach?** <br>
   I want to keep the infrastructure light so I can focus on data pipelines and new features for the user. Long term, I will integrate with a cloud DB. <br>
 
-  **You said it uses AI, how does it do that?**
+  **You said it uses AI, how does it do that?** <br>
   Right now I am using OpenRouter to connect users to models that can quickly translate bill texts into readable and informative responses. Users can ask questions about the bill, and soforth. The user needs to load the bill into the AI so it has all the text directly in   the prompt and doesn't have to reach out to the internet to gather information.
     
     
