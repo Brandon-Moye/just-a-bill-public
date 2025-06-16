@@ -21,6 +21,9 @@ To provide users to insights on what their representatives are achieving in DC a
   
   **Why did you go with this approach?** <br>
   I want to keep the infrastructure light so I can focus on data pipelines and new features for the user. Long term, I will integrate with a cloud DB. <br>
+
+  **You said it uses AI, how does it do that?**
+  Right now I am using OpenRouter to connect users to models that can quickly translate bill texts into readable and informative responses. Users can ask questions about the bill, and soforth. The user needs to load the bill into the AI so it has all the text directly in   the prompt and doesn't have to reach out to the internet to gather information.
     
     
     
