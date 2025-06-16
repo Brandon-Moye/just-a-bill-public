@@ -6,6 +6,7 @@ What is the purpose of this site?
 To provide users to insights on what their representatives are achieving in DC and utilize AI to explain bill texts in a comprehensive way
 
 **How does it work?** <br>
+<space>
     **Where does the data come from?** <br>
     The data is retrieved from the [congress.gov API](https://gpo.congress.gov/) using a Node server that I setup. This is an official API from the US government <br>
     **How does a user access the information?** <br>
