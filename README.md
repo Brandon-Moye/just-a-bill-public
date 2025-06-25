@@ -2,7 +2,7 @@
 Serves as a description of the just-a-bill functionality
 Try it [here](https://just-a-bill.netlify.app/)
 
-What is the purpose of this site?
+**What is the purpose of this site?** <br>
 To provide users to insights on what their representatives are achieving in DC and utilize AI to explain bill texts in a comprehensive way
 
 ## **How does it work?** <br>
